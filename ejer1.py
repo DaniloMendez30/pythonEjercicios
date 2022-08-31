@@ -1,6 +1,6 @@
 def run():
   total_factura = int(input("Introdusca la cantidad total de la compra: "))
-  descuento = [
+  desc = [
     {
         'id': 0,
         'color': 'Blanco',
